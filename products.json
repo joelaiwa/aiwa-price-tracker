@@ -1,0 +1,35 @@
+[
+  {
+    "name": "AIWA Bocina Bluetooth AW-BT100",
+    "ourPrice": 599,
+    "ourListingId": "MLM000000001",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 3,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  },
+  {
+    "name": "AIWA Auriculares AW-HP200",
+    "ourPrice": 349,
+    "ourListingId": "MLM000000002",
+    "keyword": "auriculares inalambricos aiwa",
+    "alertThresholdPct": 3,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  },
+  {
+    "name": "AIWA TV 32 pulgadas",
+    "ourPrice": 4999,
+    "ourListingId": "MLM000000003",
+    "keyword": "television 32 pulgadas aiwa",
+    "alertThresholdPct": 2,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+]
