@@ -1,32 +1,395 @@
 [
   {
-    "name": "AIWA Bocina Bluetooth AW-BT100",
-    "ourPrice": 599,
-    "ourListingId": "MLM000000001",
+    "name": "AIWA Bocina Bluetooth AWS600BT",
+    "ourPrice": 899,
+    "ourListingId": "MLM19045710",
     "keyword": "bocina bluetooth aiwa",
-    "alertThresholdPct": 3,
+    "alertThresholdPct": 1,
     "lastChecked": null,
     "lastCompetitorPrice": null,
     "lastAlertPrice": null,
     "lastAlertDate": null
   },
   {
-    "name": "AIWA Auriculares AW-HP200",
-    "ourPrice": 349,
-    "ourListingId": "MLM000000002",
-    "keyword": "auriculares inalambricos aiwa",
-    "alertThresholdPct": 3,
+    "name": "AIWA Bocina Bluetooth AWSJ215",
+    "ourPrice": 390,
+    "ourListingId": "MLM30899627",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
     "lastChecked": null,
     "lastCompetitorPrice": null,
     "lastAlertPrice": null,
     "lastAlertDate": null
   },
   {
-    "name": "AIWA TV 32 pulgadas",
-    "ourPrice": 4999,
-    "ourListingId": "MLM000000003",
-    "keyword": "television 32 pulgadas aiwa",
-    "alertThresholdPct": 2,
+    "name": "AIWA Bocina Bluetooth AWS40BT",
+    "ourPrice": 670,
+    "ourListingId": "MLM41642831",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWS70BTG",
+    "ourPrice": 426,
+    "ourListingId": "MLM41641697",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWS244BT",
+    "ourPrice": 1599,
+    "ourListingId": "MLM44718517",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWS200BT",
+    "ourPrice": 721.68,
+    "ourListingId": "MLM24846297",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWS1000BT",
+    "ourPrice": 1530.58,
+    "ourListingId": "MLM19860422",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWS70BTB",
+    "ourPrice": 399,
+    "ourListingId": "MLM41671508",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWPOC10L",
+    "ourPrice": 5151,
+    "ourListingId": "MLM28446472",
+    "keyword": "sistema de sonido aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWS544BT",
+    "ourPrice": 2499,
+    "ourListingId": "MLM44024795",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA Bocina Bluetooth AWS80BTU",
+    "ourPrice": 658,
+    "ourListingId": "MLM44732223",
+    "keyword": "bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWSBH1",
+    "ourPrice": 1354,
+    "ourListingId": "MLM21770038",
+    "keyword": "barra de sonido aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWPOH4D",
+    "ourPrice": 2103,
+    "ourListingId": "MLM37544276",
+    "keyword": " sistema de sonido aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWPOH4D",
+    "ourPrice": 2103,
+    "ourListingId": "MLM37544276",
+    "keyword": " sistema de sonido aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWKF3R",
+    "ourPrice": 330,
+    "ourListingId": "MLM1907667449",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWS10BTU",
+    "ourPrice": 839,
+    "ourListingId": "MLM1994372561",
+    "keyword": " sistema de sonido aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWKF3B",
+    "ourPrice": 590,
+    "ourListingId": "MLM1907667449",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWS10BTB",
+    "ourPrice": 839,
+    "ourListingId": "MLM1994372561",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWHPOH5D",
+    "ourPrice": 4896,
+    "ourListingId": "MLMU1473034414",
+    "keyword": " sistema de audio aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWPOH35",
+    "ourPrice": 1260,
+    "ourListingId": "MLM24738524",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  } 
+  {
+    "name": "AIWA AWPOK400LD",
+    "ourPrice": 2902,
+    "ourListingId": "MLMU967358768",
+    "keyword": " sistema de audio aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  } 
+  {
+    "name": "AIWA AWS500bt",
+    "ourPrice": 909,
+    "ourListingId": "MLM44712204",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  } 
+  {
+    "name": "AIWA AWS80BTB",
+    "ourPrice": 802,
+    "ourListingId": "MLMU2511442716",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWB81",
+    "ourPrice": 1199,
+    "ourListingId": "MLM61130462",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  } 
+  {
+    "name": "AIWA AWPOH2D",
+    "ourPrice": 5809,
+    "ourListingId": "MLM44712312",
+    "keyword": " sistema de sonido aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  } 
+  {
+    "name": "AIWA AWPOK68",
+    "ourPrice": 1999,
+    "ourListingId": "MLMU3533932623",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  } 
+  {
+    "name": "AIWA AWQ680",
+    "ourPrice": 999,
+    "ourListingId": "MLMU3515835053",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWKF4R",
+    "ourPrice": 1299,
+    "ourListingId": "MLM1993505129",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWPOK9T",
+    "ourPrice": 1499,
+    "ourListingId": "MLM44709239",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWS800BT",
+    "ourPrice": 1099,
+    "ourListingId": "MLM22999879",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWH51BT",
+    "ourPrice": 2999,
+    "ourListingId": "MLM53798532",
+    "keyword": " bocina bluetooth aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWTWSGPROB",
+    "ourPrice": 400,
+    "ourListingId": "MLM42865017",
+    "keyword": " audifonos aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWTWSG50ANCB",
+    "ourPrice": 338,
+    "ourListingId": "MLM42426328",
+    "keyword": " audifonos aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AW-ACF1B"
+    "ourPrice": 390,
+    "ourListingId": "MLM27890949",
+    "keyword": " audifonos aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWK17B"
+    "ourPrice": 499,
+    "ourListingId": "MLM29045971",
+    "keyword": " audifonos aiwa",
+    "alertThresholdPct": 1,
+    "lastChecked": null,
+    "lastCompetitorPrice": null,
+    "lastAlertPrice": null,
+    "lastAlertDate": null
+  }
+  {
+    "name": "AIWA AWTWSGPROW"
+    "ourPrice": 399,
+    "ourListingId": "MLM42430892",
+    "keyword": " audifonos aiwa",
+    "alertThresholdPct": 1,
     "lastChecked": null,
     "lastCompetitorPrice": null,
     "lastAlertPrice": null,
